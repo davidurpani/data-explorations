@@ -1,0 +1,4 @@
+notebook_env/
+.DS_Store
+*.csv
+.ipynb_checkpoints/
